@@ -27,26 +27,26 @@
         - court_texture.jpg
         - texture.jpg
 
-## Screenshots:
-# Overall view of the basketball court with hoops
-![alt text](./screenshots/overall_view.png)
+# Screenshots:
+## Overall view of the basketball court with hoops
+![alt text](./screenshots/overall_view.PNG)
 
 
-# Close-up view of basketball hoops with nets
-![alt text](./screenshots/hoops.png)
+## Close-up view of basketball hoops with nets
+![alt text](./screenshots/hoops.PNG)
 
 
-# View showing the basketball positioned at center court:
-![alt text](./screenshots/basketball.png)
+## View showing the basketball positioned at center court:
+![alt text](./screenshots/basketball.PNG)
 
 
-# View demonstrating camera controls functionality
-![alt text](./screenshots/1.png)
+## View demonstrating camera controls functionality
+![alt text](./screenshots/1.PNG)
 
-![alt text](./screenshots/2.png)
+![alt text](./screenshots/2.PNG)
 
-![alt text](./screenshots/3.png)
+![alt text](./screenshots/3.PNG)
 
-![alt text](./screenshots/4.png)
+![alt text](./screenshots/4.PNG)
 
-![alt text](./screenshots/5.png)
+![alt text](./screenshots/5.PNG)

@@ -12,7 +12,7 @@
 
 ## Group Members
 **MANDATORY: Add the full names of all group members here:**
-- Stav Hirszowicz
+- Stav Hirszowicz (id: 200973139)
 
 ## Running the implementation
 - Run the server with: `node index.js`

@@ -28,6 +28,9 @@
         - texture.jpg
 
 # Screenshots:
+
+Clicking on the screenshot will open better quality version of the picture
+
 ## Overall view of the basketball court with hoops
 ![alt text](./screenshots/overall_view.PNG)
 
